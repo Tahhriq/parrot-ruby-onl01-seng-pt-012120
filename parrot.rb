@@ -7,3 +7,8 @@ def parrot
 end
 
 parrot(Tariq)
+
+def parrot(say="Squawk!")
+  puts "#{string}"
+  "#{string}"
+end
